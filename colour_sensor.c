@@ -1,7 +1,7 @@
 /*
-    Code by : Projects_learner
     Project name : Colour Sensor using Ardino UNO
     Modified Date : 02-06-2024
+    Code by : Projectslearner
     Website : https://projectslearner.com/learn/arduino-uno-2-color-led-module
 */
 
